@@ -1,5 +1,5 @@
-x=input('Enter string ')
-counter=0
-while x[counter:]:
-counter +=1
-print(counter)
+#teset Hoda
+a=90
+b=38
+print('sum of a and b is ',a+b)
+
